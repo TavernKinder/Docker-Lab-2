@@ -2,6 +2,7 @@
 
 I made this in class While following the instruction of Thomas Chan
 With some assistance of Copilot inline suggestions I added some strech features
+I converted it into a Docker app while under the instruction of Chase Spencer
 
 ### COMMANDS
 
