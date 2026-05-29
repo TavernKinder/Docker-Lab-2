@@ -16,4 +16,5 @@ Run the command "Docker ps" and find the port that way
 
 OR
 
-Run the command "docker run --rm -p 3000:3000 socket-chat-app" and go to port 300
+Run the command "docker run --rm -p 3000:3000 socket-chat-app" and go to port 3000
+
